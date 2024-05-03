@@ -26,6 +26,17 @@ $username: tài khoản đăng nhập database (nếu cài xampp, tài khoản m
 $password: mật khẩu đăng nhập database (mặc định xampp không đặt mật khẩu đăng nhập, nên trường này bạn để trống).
 $dbname: tên database mà bạn cần thao tác.
 
+```
+$servername = "localhost";
+$dbname = "authen";
+$username = "root";
+$password = "vertrigo";
+$conn = new mysqli($servername, $username, $password, $dbname);
+
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+```
 Bước 4: Tạo form đăng kí người dùng:
 
 Code:
