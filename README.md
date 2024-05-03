@@ -6,7 +6,6 @@ Bước 1: Tạo database và một bảng lưu danh sách người dùng
 
 Để lưu danh sách các tài khoản, tôi tạo một database ở phpmyadmin có tên là ‘authen’ và chọn bảng mã là unicode_utf8_ci để có thể lưu dữ liệu tiếng Việt vào database. Trong database này tôi tạo 1 bảng tên là ‘users’ để lưu thông tin của các user. Bảng này có các trường sau (chọn uft8 là bảng mã có thể viết tiếng VIệt)
 
-- id: dữ liệu kiểu int, là khóa chính, tự động tăng. Trường này sẽ lưu id của người dùng.
 - user_name : kiểu varchar(50), trường này sẽ lưu tài khoản đăng nhập của người dùng.
 - password: kiểu text, trường này sẽ lưu mật khẩu của người dùng.
 
