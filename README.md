@@ -1,4 +1,4 @@
-# PHP-training-
+# PHP-training/Tạo-trang-đăng-kí-đăng-nhập
 
 Đường dẫn tới trang : http://192.168.1.10:8888/Login_Register/index.php
 
