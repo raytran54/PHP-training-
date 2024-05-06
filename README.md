@@ -1,4 +1,5 @@
-# PHP-training/Tạo-trang-đăng-kí-đăng-nhập
+# TRAN CONG DANH - SVTT - Mentor: LUU VAN LAN; PHP-training/Tạo-trang-đăng-kí-đăng-nhập - Day Started: 02/05/2024.
+## Mục lục:
 
 Đường dẫn tới trang : http://192.168.1.10:8888/Login_Register/index.php
 
