@@ -1,4 +1,4 @@
-# PHP-training/Tim_kiem_danh_sach_SV
+# TRAN CONG DANH - SVTT - Mentor: LUU VAN LAN; PHP-training/Tim_kiem_danh_sach_SV - Day Started: 24/04/2024. 
 
 Địa chỉ trang web: 192.168.1.7:8888/tim_kiem/index.php
 
