@@ -1,4 +1,4 @@
-# TRAN CONG DANH - SVTT - Mentor: LUU VAN LAN ; PHP-training/Kết nối DataBase - Day Started: 30/04/2024.
+# TRAN CONG DANH - SVTT - Mentor: LUU VAN LAN - PHP-training/Kết nối DataBase - Day Started: 30/04/2024.
 - PHP 5 trở lên có thể hoạt động với cơ sở dữ liệu MySQL bằng cách sử dụng:
 
    *MySQLi extention (chữ "i" là viết tắt của "improve")
