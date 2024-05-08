@@ -1,4 +1,7 @@
 # TRAN CONG DANH - SVTT - Mentor: LUU VAN LAN - PHP-training/Upload-Download - Day Started: 07/05/2024.
+
+Đường dẫn đến trang: csr301.click:8888/Upload_Download/
+
 ## Mục lục:
 1.[Upload](#upload)
 
@@ -6,7 +9,7 @@
 
 ## Upload
 
-- Phần code HTML tạo button upload
+- Phần code HTML tạo button upload.
 
 ```
 <form action="Upload.php" method="post" enctype="multipart/form-data">
@@ -15,7 +18,7 @@
         <input type="submit" value="Upload File" name="submit">
     </form>
 ```
-- Phần code PHP nhằm kiểm tra size, extension, file exist
+- Phần code PHP nhằm kiểm tra size, extension, file exist.
 ```
   <?php
     if(isset($_POST["submit"])){
@@ -47,7 +50,7 @@
     ?>
 ```
 ## Download
-- Phần code PHP để tải file từ dir /uploads
+- Phần code PHP để tải file từ dir /uploads.
 ```
 <?php
 $file = 'uploads/sample.txt'; // Đường dẫn tới file cần tải xuống
